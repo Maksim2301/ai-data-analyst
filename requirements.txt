@@ -1,0 +1,7 @@
+google-genai
+pandas
+numpy
+pydantic
+python-dotenv
+matplotlib
+jupyter
